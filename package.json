@@ -1,0 +1,17 @@
+{
+  "name": "animal-crossing-character-creator",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/seanarothman/animal-crossing-character-creator.git",
+  "author": "seanarothman <seanarothman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "next",
+    "react-dom": "next"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-prettier": "^2.3.0",
+    "prettier": "^1.5.3"
+  }
+}
