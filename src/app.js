@@ -45,7 +45,7 @@ const colorSetters = {
     selectElements(".ac-body").forEach(el => el.setAttribute("fill", color));
   },
   eyes(color) {
-    selectElements(".eyes-iris").forEach(group => {
+    selectElements(".ac-eyes-iris").forEach(group => {
       Array.from(group.children).forEach(path => {
         path.setAttribute("fill", color);
       });
